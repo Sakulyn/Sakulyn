@@ -15,43 +15,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&size=40&pause=1000&color=42F7A7&background=03000A00&center=true&random=false&width=435&lines=Hey!+Nice+to+see+you." alt="Typing SVG" />
-  <img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" alt="Penguin" width="5%"/>
-</p>
+  <img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" alt="tony-star" width="5%"/>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div style="display: flex"> 
+
+### I'm a front-end developer, aspiring to create beautiful and lovely things.
+<div style="display: flex; align-items: center;"> 
   <div>
-    <img align="right" src="https://github.com/Sakulyn/Sakulyn/blob/main/clauviou.gif" alt="Penguin" height="100%"/>
-    <div>
-      
-### I'm a 22-years-old Computer Science Student from China.    
-### - Learning  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- ✨ Front-end
-- ✨ Data Structures & Algorithms 
+   <img align="right" src="https://github.com/Sakulyn/Sakulyn/blob/main/clauviou.gif" alt="clauviou" style="height: auto;"/>
+  </div>
+  <div>
+    
+### - Tech Stacks  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :green_heart: Vue, React, Next.js 
+- :green_heart: Tailwindcss, Gsap, Typescript 
 ### - Hobbies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 - ✨ Painting, Music
-- ✨ Ping-pong, Riding
+- ✨ Ping-pong, Riding —— life’s simple pleasures
 
-    </div>
   </div>
 </div>
 
-### I code with 
+### :beers: I code with 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"  width="65"  style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon"  width="65"  style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon"  width="65"  style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;"/>
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon"  width="65"  style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  <img src="https://github.com/Sakulyn/Sakulyn/blob/main/gopher-dance-long.gif" alt="icon"  width="65"  style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;"/>  
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65"/> 
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65"/>
+  <img src="https://github.com/Sakulyn/Sakulyn/blob/main/gopher-dance-long.gif" alt="icon" width="65"/>  
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
